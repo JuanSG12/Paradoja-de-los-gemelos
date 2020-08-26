@@ -98,3 +98,6 @@
 <div>
 <p>&nbsp;</p>
 </div>
+
+<h1><span style="color: #3366ff;">Autor</span></h1> 
+<p>Juan Felipe<p>
